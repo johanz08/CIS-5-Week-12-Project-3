@@ -4,7 +4,7 @@
 
 Paste a link to a short video of you running this assignment (tool + code + run). Work without a working video link is incomplete.
 
-**Your demo:** *add your link here*
+**Your demo:** https://youtu.be/avrA8rgFGoM
 
 **Week 12 · Project 3**\
 **Theme:** Project 2’s report, on fifty random scores\
